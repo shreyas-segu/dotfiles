@@ -1,0 +1,35 @@
+i3lock \
+--blur 5 \
+--bar-indicator \
+--bar-pos y+h \
+--bar-direction 1 \
+--bar-max-height 50 \
+--bar-base-width 50 \
+--bar-color 282828cc \
+--keyhl-color d79921cc \
+--bar-periodic-step 50 \
+--bar-step 50 \
+--redraw-thread \
+--noinput-text="No input" \
+--clock \
+--force-clock \
+--time-size 50 \
+--date-size 30 \
+--time-pos x+30:y+h-130 \
+--time-color d79921ff \
+--date-pos tx:ty+50 \
+--date-color d79921ff \
+--date-align 1 \
+--time-align 1 \
+--ringver-color 689d6888 \
+--verif-text="verifying…" \
+--verif-color ffffff \
+--wrong-text="wrong password!" \
+--wrong-color cc241d \
+--noinput-text="enter password" \
+--status-pos x+5:y+h-16 \
+--verif-align 1 \
+--wrong-align 1 \
+--verif-color ffffffff \
+--wrong-color ffffffff \
+--modif-pos -50:-50
